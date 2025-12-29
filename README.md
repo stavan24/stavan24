@@ -49,21 +49,25 @@
 ---
 
 ### 📊 My GitHub Journey
+---
+
+### 📊 My GitHub Journey
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=stavan24&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stavan24&theme=tokyonight&show_icons=true&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stavan24&theme=tokyonight&layout=compact&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stavan24&theme=tokyonight&show_icons=true&hide_border=false" alt="Stavan's Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stavan24&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=stavan24&theme=tokyonight&hide_border=false" />
+  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=stavan24&theme=tokyonight&hide_border=false" alt="Stavan's Streak" />
 </p>
 
 ---
+
 
 ### 🔝 Top Contributed Repo
 <p align="center">
