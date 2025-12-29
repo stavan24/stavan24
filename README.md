@@ -49,23 +49,22 @@
 ---
 
 
-### 📊 My GitHub Journey
+📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stavan24&theme=tokyonight&no-frame=false&no-bg=true" alt="Stavan's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yadnyesh23&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stavan24&theme=tokyonight&show_icons=true&count_private=true" alt="Stavan's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stavan24&theme=tokyonight&layout=compact" alt="Stavan's Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yadnyesh23&theme=tokyonight&show_icons=true&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadnyesh23&theme=tokyonight&layout=compact&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=stavan24&theme=tokyonight&hide_border=false" alt="Stavan's Streak" />
+  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=Yadnyesh23&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
-
 ### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=stavan24&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Stavan's Contributions" />
